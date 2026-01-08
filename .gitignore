@@ -1,0 +1,40 @@
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+.env.local
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Document folders (scanned documents - not for public repo)
+1. Rodriguez Queral Properties and holdings from Cuba/
+2. Scanned Documents From Jorge Sanz/
+3. Ceresa Family Documents_ (Beba Book)/
+
+# Output directories
+critical_files/
+critical_files_claude/
+distribution/
+
+# Generated files
+master_document.md
+sample_output.json
